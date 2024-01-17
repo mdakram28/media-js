@@ -1,6 +1,6 @@
 {
     "name": "media-parser-js",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Multimedia parsing library",
     "main": "./dist/index.js",
     "typings": "./dist/index.d.ts",
@@ -14,14 +14,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/mdakram28/media-js.git"
+      "url": "git+https://github.com/mdakram28/media-parser-js.git"
     },
     "author": "Akram Ansari <mdakram28@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/mdakram28/media-js/issues"
+      "url": "https://github.com/mdakram28/media-parser-js/issues"
     },
-    "homepage": "https://github.com/mdakram28/media-js#readme",
+    "homepage": "https://github.com/mdakram28/media-parser-js#readme",
     "devDependencies": {
       "@jest/globals": "^29.7.0",
       "@types/jest": "^29.5.5",
