@@ -1,6 +1,6 @@
 {
     "name": "media-parser-js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Multimedia parsing library",
     "main": "./dist/index.js",
     "typings": "./dist/index.d.ts",
